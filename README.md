@@ -12,4 +12,4 @@ Linux • Docker • Nginx • Mikrotik (MTCNA) • Git • Python • PHP • I
 
 ---
 
-📫 [GitHub](https://github.com/Pstar7s) | [LinkedIn](#) | [Email](#)
+📫 [GitHub](https://github.com/Pstar7s) | [LinkedIn](https://www.linkedin.com/in/faiz-henri-890425216/) | [Email](mailto:faizhenrik86@gmail.com)
